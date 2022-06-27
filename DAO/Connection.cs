@@ -5,7 +5,7 @@ namespace WinFormsAsync.DAO
     public class Connection : IDisposable
     {
 
-        private const string ConnectionString = @"Server=SRV-SIEMPRE-SQL\BASE_13;Database=STMBASE_status;User Id=sa;Password=sucesso;";
+        private const string ConnectionString = @"Suas credenciais";
         private SqlConnection conn;
 
 
